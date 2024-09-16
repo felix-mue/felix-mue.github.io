@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+=====
 Download my CV (file to be added).
 
 Education
@@ -17,20 +19,6 @@ Education
 * M.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany, 2019
 * B.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany, 2015
 
-Publications
+Publications & Presentations
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Publications](https://felix-mue.github.io/publications/) & [Presentations](https://felix-mue.github.io/presentations/)
