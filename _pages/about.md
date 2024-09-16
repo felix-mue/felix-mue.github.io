@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Felix Müller"
+title: Felix Müller
 author_profile: true
 redirect_from:
   - /about/
