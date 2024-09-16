@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-=====
 Download my CV (file to be added).
 
 Education
