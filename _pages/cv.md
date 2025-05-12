@@ -14,8 +14,8 @@ Download my CV (file to be added).
 Education
 ======
 * currently: Ph.D student at Leipzig Institute for Meteorology, Leipzig University, Leipzig, Germany
-* M.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany, 2019
-* B.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany, 2015
+* M.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany
+* B.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany
 
 Publications & Presentations
 ======

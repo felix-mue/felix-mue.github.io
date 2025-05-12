@@ -47,8 +47,8 @@ author:
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
-  # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  # Social media (replace your usernames)
+  bluesky          : "felixandtheclouds.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # username
-  twitter          : "FelixAndClouds"
+  twitter          : # "FelixAndClouds"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
