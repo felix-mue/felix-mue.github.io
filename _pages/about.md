@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: Felix Müller
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! I am Felix, an atmospheric scientist.
+# Welcome! I'm Felix, an atmospheric scientist.
 
 <!-- taken from louis to include a gif -->
 <!-- <div style="text-align: center;">
