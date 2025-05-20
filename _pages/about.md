@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome! I'm Felix, an atmospheric scientist.
+# Welcome! I'm Felix, an atmospheric scientist and mathematician.
 
-<!-- taken from louis to include a gif -->
-<!-- <div style="text-align: center;">
-  <img src="../images/PFJ_LR_JC_inferno.gif" alt="" style="width:75%;">
-</div> -->
+<div style="text-align: center;">
+  <img src="../images/gif_ct_20040707-09.gif" alt="" style="width:75%;">
+</div>
 
-I am currently building this website.
+I am currently a PhD student in the <a href="https://research.uni-leipzig.de/aerocloud">"Aerosols and Clouds" research group</a> lead by Dr. Matthias Tesche at Leipzig University. I am investigating the Lagrangian evolution of clouds.
