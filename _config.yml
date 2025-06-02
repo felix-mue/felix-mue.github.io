@@ -21,7 +21,7 @@ repository               : "felix-mue/felix-mue.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic.png"
   name             : "Felix Müller"
   pronouns         : "he/him"
   bio              : "looking at clouds professionally as a PhD student"
