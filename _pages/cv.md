@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV (file to be added).
+Download my [CV](/files/CV-felix-mueller.pdf).
 
 Education
 ======
