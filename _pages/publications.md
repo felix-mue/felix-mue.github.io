@@ -10,7 +10,7 @@ author_profile: true
 * Tracking individual clouds to assess the fidelity of high-resolution modeling
   * **F. Müller**, T. Seelig, M. Tesche
   * in _Geophysical Research Letters_
-  * [https://doi.org/10.1029/2025GL115648](https://doi.org/10.1029/2025GL115648)
+  * [doi: 10.1029/2025GL115648](https://doi.org/10.1029/2025GL115648)
 
 ## 2024
 
