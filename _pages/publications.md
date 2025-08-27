@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## under review
+## 2025
 
 * Tracking individual clouds to assess the fidelity of high-resolution modeling
   * **F. Müller**, T. Seelig, M. Tesche
-  * under review in _Geophysical Research Letters_
+  * in _Geophysical Research Letters_
+  * [https://doi.org/10.1029/2025GL115648](https://doi.org/10.1029/2025GL115648)
 
 ## 2024
 
