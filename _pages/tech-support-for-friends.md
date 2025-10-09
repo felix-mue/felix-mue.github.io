@@ -7,7 +7,7 @@ author_profile: true
 
 This page is about my technical support for friends and not related to my work.
 
-Das ist eine kleine Sammlung an Themen und Programmen zu denen ich gerne helfe. Die meisten Dinge davon nutze ich selbst regelmäßig. Die Empfehlungen sind eine Mischung aus "das ist einfach das Programm, das ich benutze" und "ich habe viel recherchiert und benutze es deswegen". Fragt mich sehr gerne!
+Das ist eine kleine Sammlung an Themen und Programmen zu denen ich gerne helfe. Die meisten Dinge davon nutze ich selbst regelmäßig. Die Empfehlungen sind eine Mischung aus "das ist einfach das Programm, das ich benutze" und "ich habe viel recherchiert und benutze es deswegen". Fragt mich sehr gerne, warum ich irgendwas überhaupt mache oder auch warum ich das spezifische Programm nutze!
 
 * handy nutzen ohne google
   * betriebssystem: GrapheneOS
@@ -25,8 +25,10 @@ Das ist eine kleine Sammlung an Themen und Programmen zu denen ich gerne helfe. 
   * posteo, disroot
   * eigene domain möglich zB mit dem datenkollektiv
 * mail-verschlüsselung via pgp
-* allgemein
-  * hilfe bei LibreCalc-Formeln, LaTeX, formeln, (ab)rechnungen
+* allgemein fragen zu
+  * LibreCalc-Formeln
+  * formeln, rechnungen, abrechnungen
+  * LaTeX
 * app-nutzung allgemein
   * open source, ohne tracking etc
   * app stores: F-Droid Store und Aurora Store
