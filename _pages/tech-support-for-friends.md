@@ -11,15 +11,15 @@ Das ist eine kleine Sammlung an Themen und Programmen zu denen ich gerne helfe. 
 
 * handy nutzen ohne google
   * betriebssystem: GrapheneOS
-  * alternative app-stores
+  * alternative app-stores (F-Droid und Aurora Store)
 * computer-betriebssystem
-  * ubuntu (ein alternatives betriebssystem für den computer, mein ersatz für windows)
+  * ubuntu (ein alternatives betriebssystem für computer, mein ersatz für windows)
 * passwortmanager
   * laptop: keepassxc, handy: keepassdx
 * VPN
   * anbieter: mullvad, ich teile gerätekreise mit freund*innen
-* nextcloud (dropbox-alternative)
-  * ich synchronisiere darüber dateien, geteilte kalender, und kontakte, und to-dos
+* nextcloud (alternative zu dropbox/google drive)
+  * ich synchronisiere darüber dateien, geteilte kalender, kontakte, und to-dos
   * kalender-sync mit "davx5" und "fossify kalender"
 * mailadressen
   * posteo, disroot
