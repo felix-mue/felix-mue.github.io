@@ -9,13 +9,13 @@ This page is about my technical support for friends and not related to my work.
 
 Das ist eine kleine Sammlung an Themen und Programmen zu denen ich gerne helfe. Die meisten Dinge davon nutze ich selbst regelmäßig. Die Empfehlungen sind eine Mischung aus "das ist einfach das Programm, das ich benutze" und "ich habe viel recherchiert und benutze es deswegen". Fragt mich sehr gerne, warum ich irgendwas überhaupt mache oder auch warum ich das spezifische Programm nutze!
 
+* passwortmanager
+  * laptop: keepassxc, handy: keepassdx, sync via nextcloud
 * handy nutzen ohne google
   * betriebssystem: GrapheneOS
   * alternative app-stores (F-Droid und Aurora Store)
 * computer-betriebssystem
   * ubuntu (ein alternatives betriebssystem für computer, mein ersatz für windows)
-* passwortmanager
-  * laptop: keepassxc, handy: keepassdx
 * VPN
   * anbieter: mullvad, ich teile gerätekreise mit freund*innen
 * nextcloud (alternative zu dropbox/google drive)
