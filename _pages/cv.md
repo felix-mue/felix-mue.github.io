@@ -13,7 +13,8 @@ Download my [CV](/files/CV-felix-mueller.pdf).
 
 Education
 ======
-* currently: Ph.D student at Leipzig Institute for Meteorology, Leipzig University, Leipzig, Germany
+* currently: Postdoctoral Researcher at Max Planck Institute for Meteorology, Hamburg, Germany
+* Ph.D student at Leipzig Institute for Meteorology, Leipzig University, Leipzig, Germany
 * M.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany
 * B.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany
 

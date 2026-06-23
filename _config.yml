@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile-pic.png"
   name             : "Felix Müller"
-  pronouns         : "he/him"
-  bio              : "looking at clouds professionally as a PhD student"
-  location         : "Leipzig, Germany"
-  employer         : "Leipzig University"
+  pronouns         : "they/them"
+  bio              : "looking at clouds professionally"
+  location         : "Hamburg, Germany"
+  employer         : "Max Planck Institute for Meteorology"
   uri              : # URL
-  email            : "fmueller at uni-leipzig dot de"
+  email            : "felix dot mueller at mpimet dot mpg dot de"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "felix-mue"
+  github           : # "felix-mue"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -58,14 +58,14 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : "https://fediscience.org/@fxm"
+  mastodon         : # "https://fediscience.org/@fxm"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # username
-  twitter          : # "FelixAndClouds"
+  twitter          : # username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
