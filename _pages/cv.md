@@ -11,13 +11,9 @@ redirect_from:
 
 Download my [CV](/files/CV-felix-mueller.pdf).
 
-Education
+Experience
 ======
-* currently: Postdoctoral Researcher at Max Planck Institute for Meteorology, Hamburg, Germany
-* Ph.D student at Leipzig Institute for Meteorology, Leipzig University, Leipzig, Germany
-* M.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany
-* B.Sc. in Mathematics and Philosophy at Otto von Guericke University, Magdeburg, Germany
-
-Publications & Presentations
-======
-[Publications](https://felix-mue.github.io/publications/) & [Presentations](https://felix-mue.github.io/presentations/)
+* currently: _Postdoctoral Researcher_ at Max Planck Institute for Meteorology, Hamburg, Germany
+* _Ph.D in Atmospheric Sciences_ at Leipzig Institute for Meteorology, Leipzig University, Leipzig, Germany
+* _M.Sc. in Mathematics and Philosophy_ at Otto von Guericke University, Magdeburg, Germany
+* _B.Sc. in Mathematics and Philosophy_ at Otto von Guericke University, Magdeburg, Germany

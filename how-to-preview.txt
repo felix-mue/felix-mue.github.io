@@ -1,0 +1,2 @@
+- from the git repo run "bundle exec jekyll serve" in the shell (previously install everything etc)
+- open the mentioned localhost address in the browser

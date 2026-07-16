@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+| 07/2026 | poster at km-Scale Summit | Hamburg, Germany | _Tracking Clouds: Assessing the representation of mesoscale cloud patterns in the EUREC4A model data_ |
 | 04/2025 | poster at EGU | Vienna, Austria | _Tracking Clouds: Assessing the representation of mesoscale cloud patterns in the EUREC4A model data_ |
 | 07/2024 | talk at ICCP | Seogwipo, South Korea | _A Cloud-by-cloud Approach for Studying Aerosol-Cloud Interactions in Satellite Observations_ |
 | 07/2024 | poster at ICCP | Seogwipo, South Korea | _Track’n’Type: Improved cloud characterisation in geostationary satellite data_ |

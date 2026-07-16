@@ -10,7 +10,13 @@ redirect_from:
 # Welcome! I'm Felix, an atmospheric scientist and mathematician.
 
 <div style="text-align: center;">
-  <img src="../images/gif_ct_20040707-09.gif" alt="" style="width:75%;">
+  <img src="../images/gif_ct_20040707-09.gif" alt="gif of tracked clouds moving over central europe" style="width:75%;margin-bottom: 30px;">
 </div>
 
-I am currently a PhD student in the <a href="https://research.uni-leipzig.de/aerocloud">"Aerosols and Clouds" research group</a> lead by Dr. Matthias Tesche at Leipzig University. I am investigating the Lagrangian evolution of clouds in satellite and model data. Cloud tracking enables an in-depth look into their formation and evolution processes as well as including an extra dimension of time in the form of the lifetime of clouds. In a recent project we used cloud tracking as a tool for a more detailed comparison between satellite and model data, not only relying on spatially and temporally aggregated data.
+I study clouds:
+* Stratocumulus closed/open cell transitions with a focus on inferring process understanding using statistical methods
+* Lagrangian evolution of clouds
+
+Currently I work in the <a href="https://mpimet.mpg.de/en/research/independent-research-groups/multiscale-cloud-physics-lise-meitner-group">"Multiscale Cloud Physics" research group</a> lead by Dr. Franziska Glassmeier at the MPI for Meteorology.
+
+In my PhD I tracked clouds in satellite and model data. This enables an in-depth look into cloud formation and evolution processes by adding an additional dimension of time. For example, we used cloud tracking as a tool for a more detailed comparison between satellite and model data, not only relying on spatially and temporally aggregated data.
